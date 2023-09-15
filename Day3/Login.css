@@ -1,0 +1,107 @@
+.rect1
+{
+    position: absolute;
+    height: 594px;
+    width: 1279px;
+    background-color: hwb(232 43% 26% / 0.494);
+}
+.img2
+{
+        position: absolute;
+        left: 450px;
+        right: 10px;
+        border-radius: 10%;
+        top: 25px;
+}
+.rect2
+{
+    position: absolute;
+    height: 450px;
+    width: 900px;
+    background-color: rgba(62, 68, 103, 0.482);
+    top: 80px;
+    left: 200px;
+}
+.img3
+{
+    position: absolute;
+    right: 1150px;
+    border-radius: 10%;
+    top: 25px;
+}
+.rect3
+{
+    position: absolute;
+    height: 400px;
+    width: 420px;
+    background-color: rgba(3, 5, 20, 0.224);
+    bottom: 4px;
+    left: 10px;
+}
+.h1
+{
+    font-family:cursive;
+    font-size: 40px;
+    color: hsla(108, 9%, 90%, 0.945);
+    margin-right: 420px;
+    margin-top: -10px;
+}
+.form1
+{
+    position: absolute;
+    left: 120px;
+    top: 120px;
+    font-size: 23px;
+    font-family:'Times New Roman', Times, serif;
+}
+::placeholder
+{
+    font-size: 14px;
+    font-family: cursive;
+}
+input[type=email]
+{
+   
+    size: 22;
+    height: 35px;
+    font-size: 25px;
+    width: 250px;
+    border-radius: 25px;
+    margin-left: -15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}  
+input[type=password400]
+{
+    size: 22;
+    height: 35px;
+    width: 250px;
+    font-size: 25px;
+    border-radius: 25px;
+    margin-left: -10px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.but2
+{
+    position: absolute;
+    top: 140px;
+    border-radius: 100px;
+    background: rgba(51, 5, 66, 0.34);
+    width: 150px;
+    height: 42px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 39px;
+    color: hsl(120, 19%, 95%);
+    margin-left:-80px;
+}
+.pl
+{
+    font-family:cursive;
+    font-size: 20px;
+    color: hsla(108, 9%, 90%, 0.945);
+    margin-right: 420px;
+    margin-top: 250px;
+}
