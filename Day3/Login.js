@@ -13,7 +13,13 @@ function Login() {
         <img src="https://media.tenor.com/yOVsJTBtOEYAAAAC/storm-lightning.gif"height="591px" width="1280px"/>
       <div className='rect2'>
       <div className='h1'>
-      <p>LOGIN</p>
+      <p>Welcome To</p>
+      <div className='p2'>
+        <p>WEATHER</p>
+        <div className='p3'>
+        <p>BOOTH</p>
+        </div>
+      </div>
       </div>
       <div className='form1'>
       <form onSubmit={formHolder}>
