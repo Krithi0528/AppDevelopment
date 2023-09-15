@@ -1,5 +1,6 @@
 import React, {useState} from 'react'
 import './Register.css';
+import {Link} from 'react-router-dom'
 function Register() {
     const[firstname,setFirstname]=useState("");
     const[lastname,setLastname]=useState("");
@@ -30,7 +31,7 @@ function Register() {
       <input type="password100" value={password} placeholder="Enter Passsword" onChange={(e)=>setPassword(e.target.value)}/><br/><br/>
 
       <input type="text500" value={location} placeholder="Enter Location" onChange={(e)=>setLocation(e.target.value)}/><br/><br/>
-      <button type="submit" class="but2">REGISTER</button>
+      <Link to="/"><button type="submit" class="but2">REGISTER</button></Link>
 
       </form>
       </div>
