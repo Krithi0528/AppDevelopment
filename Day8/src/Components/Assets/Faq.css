@@ -1,0 +1,78 @@
+.ran
+{
+    position: relative;
+    background: url("https://w0.peakpx.com/wallpaper/340/450/HD-wallpaper-aesthetic-clouds-aesthetic-blue-clouds-samsung-velvet-violet-amoled-black-dark-iphone-night-one-plus-sky.jpg");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 170vh;
+}
+.rectangle88
+{
+    position: relative;
+    height:950px;
+    width:900px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 5px 5px 5px white;
+    left:150px;
+    top:50px;
+}
+.kab
+{
+    position: relative;
+    left:10px;
+    top:70px;
+}
+.faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    top:50px;
+    left:10px;
+  }
+  
+  .faq-list {
+    margin-top: 20px;
+    position: relative;
+  }
+  
+  .faq-item {
+    position: relative;
+    border: 1px solid #cccccc17;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .faq-question {
+    position: relative;
+    background-color: skyblue;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .faq-answer {
+    position: relative;
+    padding: 10px;
+    display: none;
+  }
+  
+  .faq-question.expanded {
+    position: relative;
+    background-color: #e0e0e0;
+  }
+  
+  .faq-question.expanded + .faq-answer {
+    position: relative;
+    display: block;
+  }
+  
+  h1 {
+    position: relative;
+    text-align: center;
+}
