@@ -1,0 +1,11 @@
+com\example\demo\weather\service\UserRegisterService.class
+com\example\demo\weather\entity\UserRegisterEntity.class
+com\example\demo\weather\repository\UserRegisterRepository.class
+com\example\demo\weather\service\UserLoginService.class
+com\example\demo\weather\controller\UserLoginController.class
+com\example\demo\weather\controller\UserRegisterController.class
+com\example\demo\weather\entity\UserLoginEntity.class
+com\example\demo\weather\repository\UserLoginRepository.class
+com\example\demo\weather\service\UserRegisterServiceInterface.class
+com\example\demo\weather\service\UserLoginServiceInterface.class
+com\example\demo\weather\WeatherForecastApplication.class
