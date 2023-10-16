@@ -1,0 +1,92 @@
+.bgimg
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding-bottom: 0px;
+}
+.rectangle666
+{
+    position: absolute;
+    width: 1000px;
+  height: 670px;
+  top: 100px;
+  left: 230px;
+  background: #0b6b85;
+  opacity: 0.7;
+}
+.head666
+{
+    position: relative;
+    top: 130px;
+    left: 570px;
+    width: 500px;
+     font-size: 40px;
+    color: #ca870a;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+.form666
+{
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    font-size: 20px;
+    width: 760px;
+    color: #f6f4f4;
+}
+input[type=text6666]
+{
+
+    size: 20;
+    height: 50px;
+    font-size: 30px;
+    width: 520px;
+} 
+input[type=radio]
+{
+    size: 10px;
+    height: 16px;
+    font-size: 30px;
+    width: 250px;
+
+}
+.yn
+{
+    position: absolute;
+    left: 360px;
+    top: 365px;
+    font-size: 20px;
+    line-height: 30px;
+}
+.ot
+{
+   
+    position: absolute;
+    font-size: 20px;
+    left: 360px;
+    top: 610px;
+    line-height: 32px;
+}
+.but666
+{
+    position: absolute;
+    left: 240px;
+    top: 450px;
+    height:100px;
+    
+
+}
+.ZZZ666
+{ 
+    position: relative;
+    width: 150px;
+    height: 70px;
+    background-color: #ca870a;
+    border: #fdfcff;
+    border-radius: 1000px;
+    font-size: 25px;
+    top:30px;
+
+}
